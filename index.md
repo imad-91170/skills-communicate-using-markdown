@@ -47,6 +47,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 
 #### How it looks
 
+# Header 1
+# Header 2
 # This is an `<h1>` header, which is the largest
 
 ## This is an `<h2>` header
@@ -54,8 +56,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 ###### This is an `<h6>` header, which is the smallest
 
 ### :keyboard: Activity: Edit your file with headers
-
-![Image of Yaktocat haha](https://octodex.github.com/images/yaktocat.png)
 
 1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
 1. Open the **pull requests** tab.
@@ -69,6 +69,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+# ![Image of Yaktocat haha](https://octodex.github.com/images/yaktocat.png)
+
 <footer>
 
 <!--
@@ -81,5 +83,6 @@ _Welcome to "Communicate using Markdown"! :wave:_
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
 
 </footer>
